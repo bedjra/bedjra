@@ -39,9 +39,8 @@
 ---
 
 ## 🚀 Projets récents
-- 📚 **[EdumapBack](https://github.com/bedjra/EdumapBack)** – Backend gestion scolaire (Spring Boot)  
 - 💸 **[cryptofrontend](https://github.com/bedjra/cryptofrontend)** – Interface React pour gestion crypto  
-- 🏫 **[monecole](https://github.com/bedjra/monecole)** – Application scolaire fullstack  
+- 🏫 **[Edumap](https://github.com/bedjra/EdumapBack)** – Application scolaire fullstack  
 
 ---
 
