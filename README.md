@@ -56,14 +56,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bedjra&show_icons=true&theme=radical" alt="stats graph"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bedjra&layout=compact&theme=radical" alt="top langs"/>
-</p>
+
 
 ---
 
